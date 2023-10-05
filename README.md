@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Full-Stack freelancer.
+- 👯 I’m looking to collaborate on anything you think is interesting.
+- 📫 How to reach me: [email](mailto:shaharzfrn@gmail.com), [my website](https://shaharzfrn.com/contact)
+- ⚡ Fun fact: I like to try Docker everything, just for fun.
+  
 <!--
 **shaharzfrn/shaharzfrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
