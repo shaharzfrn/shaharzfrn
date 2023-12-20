@@ -9,17 +9,17 @@
 
 ## 📌 Pinned Repositories
 <a href="https://github.com/shaharzfrn/react-ts-portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shaharzfrn&repo=react-ts-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=0a1a2a" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shaharzfrn&repo=react-ts-portfolio&show_icons=true&theme=highcontrast" />
 </a>
 
 
 ## 📈 GitHub Stats
 <a href="https://github.com/shaharzfrn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharzfrn&hide=html,css&title_color=ffffff&text_color=3498db&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharzfrn&show_icons=true&theme=highcontrast&hide=html,css,scss,sass" />
 </a>
 
 <a href="https://github.com/shaharzfrn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="shaharzfrn's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn&show_icons=true&theme=highcontrast" alt="shaharzfrn's GitHub Stats" />
 </a>
 
 <!--
