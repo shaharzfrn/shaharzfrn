@@ -1,3 +1,6 @@
+
+
+
 ## Hi there 👋
 
 - 🔭 I’m currently working as a Full-Stack freelancer.
@@ -6,21 +9,20 @@
 - ⚡ Fun fact: I like to try Docker everything, just for fun.
 
 
-
-## 📌 Pinned Repositories
-<a href="https://github.com/shaharzfrn/react-ts-portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shaharzfrn&repo=react-ts-portfolio&show_icons=true&theme=highcontrast" />
+<div>
+<a href="https://github.com/shaharzfrn/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn" alt="stats graph"/>
 </a>
-
-
-## 📈 GitHub Stats
-<a href="https://github.com/shaharzfrn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharzfrn&show_icons=true&theme=highcontrast&hide=html,css,scss,sass" />
+<a href="https://github.com/shaharzfrn/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharzfrn&layout=compact&langs_count=8&card_width=320" alt="languages graph"/>
 </a>
+</div>
 
-<a href="https://github.com/shaharzfrn">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn&show_icons=true&theme=highcontrast" alt="shaharzfrn's GitHub Stats" />
-</a>
+||||||
+|-|-|-|-|-|
+|**Programming Languages:**||**Libraries and Frameworks:**||**Tools:**|
+|![](https://skillicons.dev/icons?i=c,cpp,js,ts,python,java&perline=4)||![](https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite&perline=4)||![](https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4)|
+<!-- graphql -->
 
 <!--
 **shaharzfrn/shaharzfrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +38,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<style>
+td, th {
+   border: none!important;
+   vertical-align: top;
+}
+</style>
