@@ -17,13 +17,13 @@
         </tr>
         <tr>
             <td>
-                <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java&perline=4" alt="Programming Languages"/>
+<!--                 <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java&perline=4" alt="Programming Languages"/> -->
             </td>
             <td>
-                <img src="https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite&perline=4" alt="Libraries and Frameworks"/>
+<!--                 <img src="https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite&perline=4" alt="Libraries and Frameworks"/> -->
             </td>
             <td>
-                <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4" alt="Tools"/>
+<!--                 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4" alt="Tools"/> -->
             </td>
         </tr>
       </table>
