@@ -17,11 +17,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharzfrn&layout=compact&langs_count=8&card_width=320" alt="languages graph"/>
 </a>
 </div>
+<div style="width: 100%;">
+  <img src="skills.svg" style="width: 100%;" alt="Click to see the source">
+</div>
 
-||||||
-|-|-|-|-|-|
-|**Programming Languages:**||**Libraries and Frameworks:**||**Tools:**|
-|![](https://skillicons.dev/icons?i=c,cpp,js,ts,python,java&perline=4)||![](https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite&perline=4)||![](https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4)|
 <!-- graphql -->
 
 <!--
@@ -38,12 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-<style>
-td, th {
-   border: none!important;
-   vertical-align: top;
-}
-</style>
