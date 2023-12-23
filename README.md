@@ -17,9 +17,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharzfrn&layout=compact&langs_count=8&card_width=320" alt="languages graph"/>
 </a>
 </div>
-<div style="width: 100%;">
+<!-- <div style="width: 100%;">
   <img src="skills.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+</div> -->
 
 <!-- graphql -->
 
