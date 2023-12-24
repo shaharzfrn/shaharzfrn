@@ -1,24 +1,31 @@
 
 
 
-## Hi there 👋
+## HI THERE 👋👋👋
+[![Gmail Badge](https://img.shields.io/badge/-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shaharzfrn@gmail.com)](mailto:shaharzfrn@gmail.com)
+![](https://badgen.net/badge/currently/online/green)
+![](https://badgen.net/badge/icon/apple?icon=apple&label)
+![](https://badgen.net/badge/icon/zsh?icon=terminal&label)
+![](<https://badgen.net/badge/coding/somthing random/purple?icon=visualstudio>)
+![](<https://badgen.net/badge/playing/not rn/orange>)
+
 
 - 🔭 I’m currently working as a Full-Stack freelancer.
 - 👯 I’m looking to collaborate on anything you think is interesting.
-- 📫 How to reach me: [email](mailto:shaharzfrn@gmail.com), [my website](https://shaharzfrn.com/contact)
 - ⚡ Fun fact: I like to try Docker everything, just for fun.
-
-
-<div>
-<a href="https://github.com/shaharzfrn/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn" alt="stats graph"/>
-</a>
-<a href="https://github.com/shaharzfrn/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharzfrn&layout=compact&langs_count=8&card_width=320" alt="languages graph"/>
-</a>
-</div>
 
 ###
 ![](https://skillicons.dev/icons?i=c,cpp,js,ts,python,java)
 ![](https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite)
 ![](https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle)
+![](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+
+## GitHub Metrics👇🏻
+<div>
+<a href="https://github.com/shaharzfrn/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharzfrn" alt="stats graph"/>
+</a>
+<a href="https://github.com/shaharzfrn/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharzfrn&layout=compact&langs_count=8&card_width=320" alt="languages graph"/>
+</a>
+</div>
