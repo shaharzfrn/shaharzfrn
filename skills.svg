@@ -1,6 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
-
-  <image href="https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite" x="0" y="0" width="200" height="200" />
-  <!-- Repeat for other images -->
-
+<svg xmlns="http://www.w3.org/2000/svg">
+  <image href="https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle" width="100%" />
 </svg>
