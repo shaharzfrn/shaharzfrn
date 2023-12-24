@@ -1,29 +1,6 @@
-<!-- <svg fill="none"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <foreignObject width="100%" height="100%">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java&perline=4"/>
-  <div xmlns="http://www.w3.org/1999/xhtml" >
-  </foreignObject>
-</svg> -->
-<svg width="5cm" height="4cm" version="1.1"
-     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<<<<<<< HEAD
-  <image href="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java"/>
-=======
-  <image href="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java" x="0" y="0" height="50px" width="50px"/>
->>>>>>> 7e156f1 (try to fix skills.svg)
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400">
+
+  <image href="https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite" x="0" y="0" width="200" height="200" />
+  <!-- Repeat for other images -->
+
 </svg>
-
-<!--
-
-<td>
-                <img src="https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite&perline=4" alt="Libraries and Frameworks"/>
-            </td>
-            <td>
-                <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4" alt="Tools"/>
-            </td>
-
-<<<<<<< HEAD
--->
-=======
--->
->>>>>>> 7e156f1 (try to fix skills.svg)
