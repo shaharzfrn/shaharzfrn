@@ -6,7 +6,11 @@
 </svg> -->
 <svg width="5cm" height="4cm" version="1.1"
      xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<<<<<<< HEAD
   <image href="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java"/>
+=======
+  <image href="https://skillicons.dev/icons?i=c,cpp,js,ts,python,java" x="0" y="0" height="50px" width="50px"/>
+>>>>>>> 7e156f1 (try to fix skills.svg)
 </svg>
 
 <!--
@@ -18,4 +22,8 @@
                 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle&perline=4" alt="Tools"/>
             </td>
 
+<<<<<<< HEAD
 -->
+=======
+-->
+>>>>>>> 7e156f1 (try to fix skills.svg)
