@@ -18,23 +18,7 @@
 </a>
 </div>
 
-<!-- <div style="width: 100%;">
-  <img src="skills.svg" style="width: 100%;" alt="Click to see the source">
-</div> -->
-
-<!-- graphql -->
-
-<!--
-**shaharzfrn/shaharzfrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+![](https://skillicons.dev/icons?i=c,cpp,js,ts,python,java)
+![](https://skillicons.dev/icons?i=react,express,nextjs,django,flask,nestjs,nodejs,tailwind,bootstrap,vite)
+![](https://skillicons.dev/icons?i=git,github,docker,postman,figma,cmake,gradle)
