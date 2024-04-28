@@ -10,7 +10,7 @@
 ![](<https://badgen.net/badge/playing/not rn/orange>)
 
 
-- 🔭 I’m currently working as a Full-Stack freelancer.
+- 🔭 I’m currently working as a Software Engineer at Skysoft.
 - 👯 I’m looking to collaborate on anything you think is interesting.
 - ⚡ Fun fact: I like to try Docker everything, just for fun.
 
